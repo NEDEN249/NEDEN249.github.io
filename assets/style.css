@@ -208,6 +208,7 @@ nav ul li {
 .project-container {
   text-align: center;
   width: 21.875rem;
+  height: auto;
   padding: 1rem;
 }
 
@@ -316,7 +317,7 @@ nav ul li {
   .hero {
     margin-top: -4rem;
     flex-direction: column;
-    gap: 0;
+    gap: 7rem;
   }
 
   .hero img {
@@ -352,7 +353,8 @@ nav ul li {
   }
 
   .project-container {
-    width: 20.875rem;
+    width: 25rem;
+    height: auto;
   }
 
    .contact-form-container {
