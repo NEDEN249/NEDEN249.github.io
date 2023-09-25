@@ -150,7 +150,7 @@ nav ul li {
   padding: 1.25rem;
 }
 
-.git:hovor{
+.git:hover{
   opacity: 0.5;
 }
 
@@ -191,8 +191,7 @@ nav ul li {
 }
 
 .project-pic {
-  width: 65%;
-  height: 60%;
+  width: 100px;
 }
 
 .projects-container {
